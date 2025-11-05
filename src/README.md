@@ -99,4 +99,4 @@ Threads    | Modelo 1:1   | Modelo N:M   | Diferenca    | Mais Rapido
 
 ## Data de Entrega
 
-[Data]
+04/11/2025
